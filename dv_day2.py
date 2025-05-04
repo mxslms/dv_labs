@@ -70,3 +70,4 @@ plt.title('Histogram of Immigration from Denmark, Norway, and Sweden from 1980 -
 plt.ylabel('Number of Years')
 plt.xlabel('Number of Immigrants')
 plt.show()
+
